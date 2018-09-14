@@ -1,0 +1,290 @@
+[
+    {
+        "id":"0",
+        "bus": "101",
+        "direzione": "VERSO STAZIONE CENTRALE",
+        "linea_id_moovit":"1912997", "fermate": "Stadio - Fante,Croce Rossa - De Gasperi,Croce Rossa - Valdemone,Croce Rossa - Emilia,Croce Rossa - Statua,Liberta' - Lazio,Liberta' - Don Bosco,Liberta' - Matteotti,Liberta' - Ugdulena,Liberta' - D'Annunzio,Liberta' - Villa Paino,Liberta' - Arimondi,Liberta' - Notarbartolo,Liberta' - Croci,Liberta' - Quintino Sella,Politeama,Ruggiero Settimo - Stabile,Cavour,Roma - Poste,Roma - Bandiera,Roma - Vucciria,Roma - Lattarini,Roma - Palazzo Ganci,Roma - Fiume,Oreto - S. Antonino,Staz. Centrale Cupani 2,Stazione Centrale",
+        "orario_esercizio": "Dalle 05:25 alle 20:56",
+		"link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"1",
+        "bus": "101",
+        "direzione": "VERSO STADIO",
+        "linea_id_moovit":"1912998", "fermate": "Stazione Centrale,Roma - FS,Roma - Palazzo Ganci,Roma - Lattarini,Roma - Vucciria,Roma - S. Domenico,Roma - Poste,Roma - Stabile,Roma - Belmonte,Sturzo - Politeama,Liberta' - Quintino Sella,Liberta' - Archimede,Liberta' - Croci,Liberta' - Notarbartolo,Liberta' - Arimondi,Liberta' - Villa Paino,Liberta' - Ugdulena,Liberta' - Matteotti,Liberta' - Don Bosco,Liberta' - Lazio,Croce Rossa - Statua,Croce Rossa - Emilia,Croce Rossa - Valdemone,Croce Rossa - De Gasperi,Piazza Papa Giovanni Paolo II,Villa Sofia - Croce Rossa,Stadio",
+        "orario_esercizio": "Dalle 05:25 alle 20:56",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"2",
+        "bus": "102",
+        "direzione": "VERSO STAZIONE CENTRALE",
+        "linea_id_moovit":"2588151", "fermate": "Piazza Boiardo,Sciuti - Notarbartolo,Notarbartolo - Morello,Notarbartolo - Petrarca,Liberta' - Notarbartolo,Liberta' - Croci,Liberta' - Quintino Sella,Politeama,Ruggiero Settimo - Stabile,Cavour,Roma - Poste,Roma - Bandiera,Roma - Vucciria,Roma - Lattarini,Roma - Palazzo Ganci,Roma - Fiume,Stazione Centrale",
+        "orario_esercizio": "Dalle 06:00 alle 21:45",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"3",
+        "bus": "102",
+        "direzione": "VERSO STAZ.NOTARBARTOLO",
+        "linea_id_moovit":"2588152", "fermate": "Stazione Centrale,Roma - FS,Roma - Palazzo Ganci,Roma - Lattarini,Roma - Vucciria,Roma - S. Domenico,Roma - Poste,Roma - Stabile,Roma - Belmonte,Puglisi Bertolino,Isidoro Carini,Pasquale Calvi,Dalla Chiesa,Duca Della Verdura - Liberta',Notarbartolo - Petrarca,Notarbartolo - Sciuti,Piazza Boiardo",
+        "orario_esercizio": "Dalle 06:00 alle 21:45",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"4",
+        "bus": "106",
+        "direzione": "VERSO STADIO",
+        "linea_id_moovit":"1913005", "fermate": "Emiri - Nina Siciliana,Nina Siciliana - Perpignano,Perpignano - Ruggerone Da Palermo,Perpignano - D'Aquino,Perpignano - Polito,Camporeale - Gili,Dante - Villa Malfitano,Dante - Veneziano,Dante - Stazione Lolli,Dante - Piazza Virgilio,Dante - Sammartino,Paternostro - Villafranca,Sturzo - Politeama,Puglisi Bertolino,Isidoro Carini,Pasquale Calvi,Dalla Chiesa,Villabianca - Laurana,Villabianca - Arimondi,Villabianca - Generale Streva,Villabianca - Autonomia Siciliana,Villabianca - Vaccarini,Roccaforte - Don Bosco,Leoni - Favorita,Fante - Piscina Comunale,Fante - Inail,Resuttana",
+        "orario_esercizio": "Dalle 06:05 alle 21:10",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"5",
+        "bus": "106",
+        "direzione": "VERSO PARCHEGGIO EMIRI",
+        "linea_id_moovit":"1913006", "fermate": "Resuttana,Trinacria,Fante - C.T.O.,Fante - Inail,Fante - Piscina Comunale,Leoni - Favorita,Leoni - Don Bosco,D'Azeglio - La Marmora,D'Azeglio - Cordova,Villabianca - Vaccarini,Villabianca - Autonomia Siciliana,Villabianca - Generale Streva,Villabianca - Arimondi,Duca Della Verdura - Liberta',Liberta' - Notarbartolo,Liberta' - Croci,Liberta' - Quintino Sella,Dante - XX Settembre,Dante - Villafranca,Dante - Sammartino,Dante - Piazza Virgilio,Dante - Stazione Lolli,Dante - Veneziano,Dante - Villa Malfitano,Piazza Camporeale,Perpignano - Polito,Perpignano - D'Aquino,Perpignano - Arculeo,Arculeo,Degli Emiri - Nina Siciliana,Emiri - Nina Siciliana",
+        "orario_esercizio": "Dalle 06:05 alle 21:10",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"6",
+        "bus": "108",
+        "direzione": "VERSO OSPEDALE CIVICO",
+        "linea_id_moovit":"1913009", "fermate": "Sturzo - Politeama,Dante - XX Settembre,Dante - Villafranca,Dante - Sammartino,Latini,Goethe,A. Amedeo - Lascaris,A. Amedeo - Mercato Delle Pulci,A. Amedeo - Colonna Rotta,Indipendenza,Indipendenza - Pisani,Re Ruggero,Brasa,Basile - Universita' Segreterie,Basile - Facolta' Di Ingegneria,Basile - Facolta' Di Economia E Commercio,Basile - Facolta' Di Lettere,Basile - Artale,Basile - Parcheggio Basile,Basile - Raiti,Raiti,Roccella - Raiti,Roccella - S. R. Arcangelo,Madonia - Roccella,Madonia - Li Bassi,Madonia - Ughetti,Ughetti - Madonia,Ughetti - Tricomi,Tricomi - Ughetti,Ospedale Civico",
+        "orario_esercizio": "Dalle 05:50 alle 21:50",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"7",
+        "bus": "108",
+        "direzione": "VERSO POLITEAMA",
+        "linea_id_moovit":"1913010", "fermate": "Ospedale Civico,Tricomi - Ughetti,Ughetti - Tricomi,Madonia - Soli,Madonia - Li Bassi,Madonia - Roccella,Roccella - Vitali,Roccella - S. R. Arcangelo,Raiti,Basile - Sabato,Basile - Facolta' Di Ingegneria,Basile - Universita' Segreterie,Basile - Re Ruggero,Re Ruggero,Indipendenza - Palazzo Reale,Calatafimi - Porta Nuova,Piazza Peranni,Papireto - Piazza Del Noviziato,A. Amedeo - Tribunale,Volturno - Capo,Piazza Verdi,Cavour,Roma - Stabile,Roma - Belmonte,Sturzo - Politeama",
+        "orario_esercizio": "Dalle 05:50 alle 21:50",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"8",
+        "bus": "109",
+        "direzione": "VERSO STAZIONE CENTRALE",
+        "linea_id_moovit":"1913011", "fermate": "Parcheggio Basile,Basile - Raiti,Basile - Sabato,Basile - Facolta' Di Ingegneria,Basile - Universita' Segreterie,Basile - Re Ruggero,Tukory - Filiciuzza,Tukory - Arcoleo,Salamone Marino,Pisacane,Marinuzzi - Pisacane,Errante - Perez,Stazione Centrale",
+        "orario_esercizio": "Dalle 05:30 alle 21:40",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"9",
+        "bus": "109",
+        "direzione": "VERSO PARCHEGGIO BASILE",
+        "linea_id_moovit":"1913012", "fermate": "Stazione Centrale,Tukory - Ballaro',Tukory - Porta S. Agata,Tukory - Arcoleo,Tukory - Filiciuzza,Re Ruggero,Indipendenza - Palazzo Reale,Indipendenza,Indipendenza - Pisani,Re Ruggero,Brasa,Basile - Universita' Segreterie,Basile - Facolta' Di Ingegneria,Basile - Facolta' Di Economia E Commercio,Basile - Facolta' Di Lettere,Basile - Artale,Parcheggio Basile",
+        "orario_esercizio": "Dalle 05:30 alle 21:40",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"10",
+        "bus": "124",
+        "direzione": "VERSO STAZIONE CENTRALE",
+        "linea_id_moovit":"2999789", "fermate": "Emiri - Nina Siciliana,Libero Grassi,Libero Grassi - La Torre,L'Emiro - Scoto,L'Emiro - Castelluccio,L'Emiro - Di Svevia,L'Emiro - Guerrazzi,Guerrazzi,Contessa Giuditta,Finocchiaro Aprile - Re Federico,Finocchiaro Aprile - Tribunale,Volturno - Capo,Piazza Verdi,Cavour,Roma - Poste,Roma - Bandiera,Roma - Vucciria,Roma - Lattarini,Roma - Palazzo Ganci,Roma - Fiume,Stazione Centrale",
+        "orario_esercizio": "Dalle 06:30 alle 07:40",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"11",
+        "bus": "124",
+        "direzione": "VERSO PARCHEGGIO EMIRI",
+        "linea_id_moovit":"2999790", "fermate": "Stazione Centrale,Roma - FS,Roma - Palazzo Ganci,Roma - Lattarini,Roma - Vucciria,Roma - S. Domenico,Roma - Poste,Roma - Stabile,Roma - Belmonte,Sturzo - Politeama,Politeama,Stabile - Piazzale Ungheria,Piazza San Francesco Di Paola,Goethe,A. Amedeo - Lascaris,Lascaris - Imera,Lascaris - Zisa,Michele Piazza,L'Emiro - Guerrazzi,L'Emiro - Edrisi,L'Emiro - Aristippo,L'Emiro - Scoto,Libero Grassi - Siccheria,Libero Grassi - Degli Emiri,Emiri - Nina Siciliana,Emiri - Nina Siciliana",
+        "orario_esercizio": "Dalle 05:05 alle 21:58",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"12",
+        "bus": "226",
+        "direzione": "VERSO POMARA",
+        "linea_id_moovit":"1913029", "fermate": "Dei Picciotti,D'Aosta - Dei Mille,Cirincione - Carella,Cirincione - Cavallacci,Giafar - Torrelunga,Dei Mille - Vassallo,Dei Mille - Cavallotti,Dei Mille - Corselli,Dei Mille - Del Carmelo,Dei Mille - XXVII Maggio,Dei Mille - Ciluffo,Dei Mille - Fondo Vitale,Dei Mille - Laudicina,Dei Mille - Bandita,Dei Mille - Scuola Natoli,Dei Mille - Vaccaro,Dei Mille 1,Dei Mille 2,M. Montagne 1,M. Montagne 2,M. Montagne - Figurella",
+        "orario_esercizio": "Circola solo alle 07:00",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"13",
+        "bus": "226",
+        "direzione": "VERSO VIALE DEI PICCIOTTI",
+        "linea_id_moovit":"1913030", "fermate": "M. Montagne - Figurella,M. Montagne 2,M. Montagne 1,Dei Mille 3,Dei Mille - Vaccaro,Dei Mille - Scuola Natoli,Dei Mille - Bandita,Dei Mille - Laudicina,Dei Mille - Fondo Vitale,Dei Mille - Ciluffo,Dei Mille - XXVII Maggio,Dei Mille - Forni,Dei Mille - Corselli,Dei Mille - Cavallotti,Dei Mille - Torrelunga,Dei Mille - Salemi,Dei Mille - D'Orfeo,Dei Mille - D'Aosta,Dei Picciotti",
+        "orario_esercizio": "Dalle 05:40 alle 21:00",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"14",
+        "bus": "246",
+        "direzione": "VERSO STAZIONE CENTRALE",
+        "linea_id_moovit":"1913043", "fermate": "Ospedale Civico,Tricomi - Ughetti,Tricomi - Parlavecchio,Parlavecchio - S. Orsola,Parlavecchio - Metro',La Franca - Durante,Rocco Jemma,Del Vespro - Delle Cliniche,Errante - Corazza,Errante - Perez,Stazione Centrale",
+        "orario_esercizio": "Dalle 05:45 alle 21:00",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"15",
+        "bus": "246",
+        "direzione": "VERSO OSPEDALE CIVICO",
+        "linea_id_moovit":"1913044", "fermate": "Stazione Centrale,Tukory - Ballaro',Tukory - Porta S. Agata,Salamone Marino,Pisacane,Marinuzzi - Pisacane,Marinuzzi - Palermo,Palermo,Del Vespro - Delle Cliniche,Parlavecchio - Tricomi,Tricomi - Parlavecchio,Tricomi - Ughetti,Ospedale Civico",
+        "orario_esercizio": "Dalle 05:45 alle 21:00",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"16",
+        "bus": "304",
+        "direzione": "VERSO VILLA TASCA",
+        "linea_id_moovit":"1913045", "fermate": "Indipendenza - Pisani,Re Ruggero,Brasa,Basile - Universita' Segreterie,Basile - Facolta' Di Ingegneria,Basile - Facolta' Di Economia E Commercio,Basile - Facolta' Di Lettere,Basile - Artale,Basile - Parcheggio Basile,Basile - Medaglie D'Oro,Basile - Brasa,Regione Siciliana - Altofonte,Regione Siciliana - D'Anna,Regione Siciliana - Platania",
+        "orario_esercizio": "Dalle 05:55 alle 20:55",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"17",
+        "bus": "304",
+        "direzione": "VERSO INDIPENDENZA",
+        "linea_id_moovit":"1913046", "fermate": "Regione Siciliana - Platania,Ss. Mediatrice - Regione Siciliana,Ss. Mediatrice - Barbarino,Casalaina,Palmerino - Scontrino,Piazza G.Le Turba,Largo Traina - Catalano,Catalano - Loi,Pisani - Catalano,Pisani - Ingria,Pisani - Onorato,Pisani - Indipendenza,Indipendenza - Palazzo Reale,Indipendenza,Indipendenza - Pisani",
+        "orario_esercizio": "Dalle 05:55 alle 20:55",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"18",
+        "bus": "307",
+        "direzione": "VERSO BORGO NUOVO",
+        "linea_id_moovit":"1913047", "fermate": "Parcheggio Basile,Basile - Medaglie D'Oro,Basile - Brasa,Regione Siciliana - Altofonte,Regione Siciliana - D'Anna,Regione Siciliana - Platania,Regione Siciliana - Ss. Mediatrice,Regione Siciliana - Calatafimi,Dei Fiori - Regione Siciliana,Dei Fiori - Paulsen,Paulsen,Terranova - Lenin Mancuso,Paruta - Terranova,Calatafimi - Paruta,Calatafimi - Scuola Feltri,Calatafimi - Caserma Scianna,Calatafimi - Ospedale Ingrassia,Calatafimi - Rocca,Maddalena - Di Bella,Maddalena 1,Maddalena - Piazza Micca,Roccazzo - Istituto Zootecnico,Sarullo - Casa Del Sole,Sarullo - Papaleo,Castellana - Lercara,Castellana - Modica,Castellana - Villa Delle Ginestre,Castellana - Pantalica,Pantalica - Zancle,Tindari - Cefalu',Tindari 1",
+        "orario_esercizio": "Dalle 06:10 alle 20:30",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"19",
+        "bus": "307",
+        "direzione": "VERSO PARCHEGGIO BASILE",
+        "linea_id_moovit":"1913048", "fermate": "Tindari 1,Tindari - Pantalica,Pantalica - Zancle,Castellana - Bronte,Castellana - Montevago,Castellana - Bronte,Castellana - S. Isidoro,Leonardo Da Vinci - Romania,Leonardo Da Vinci - Ribolla,Leonardo Da Vinci - Tomasi Di Lampedusa,Leonardo Da Vinci - Casalini,Ruggeri - Leonardo Da Vinci,Ruggeri - Di Blasi,Di Blasi - Passo Di Rigano,Roccazzo - Dogali,Roccazzo - Massaua,Roccazzo - Amat,Roccazzo - Casa Del Sole,Roccazzo - Istituto Zootecnico,Pandolfini,Bologni,Piazza Micca,Maddalena 1,Maddalena - Di Bella,Calatafimi - Rocca,Calatafimi - Ospedale Ingrassia,Calatafimi - Caserma Scianna,Calatafimi - Scuola Feltri,Paruta - Terranova,Terranova - Lenin Mancuso,Paulsen,Dei Fiori - Paulsen,Regione Siciliana - Dei Fiori,Regione Siciliana - Villa Tasca,Regione Siciliana - Palmerino,Regione Siciliana - Altofonte,Regione Siciliana - Brasa,Basile - Anelli,Basile - Raiti,Parcheggio Basile",
+        "orario_esercizio": "Solo alle 05:45",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"20",
+        "bus": "309",
+        "direzione": "VERSO ROCCA",
+        "linea_id_moovit":"1913049", "fermate": "Parcheggio Basile,Basile - Raiti,Basile - Sabato,Basile - Facolta' Di Ingegneria,Basile - Universita' Segreterie,Basile - Re Ruggero,Re Ruggero,Indipendenza - Palazzo Reale,Indipendenza,Calatafimi - Cappuccini,Calatafimi - Maria Adelaide,Calatafimi - Albergo Delle Povere,Calatafimi - Caserma Tukory,Calatafimi - Pindemonte,Calatafimi - Ragusa Moleti,Calatafimi - Trasselli,Calatafimi - Zancla,Calatafimi - Marinuzzi,Calatafimi - Arcoleo,Calatafimi - Ospedale Militare,Calatafimi - Regione Siciliana,Calatafimi - De Filippo,Calatafimi - Villa Delle Rose,Calatafimi - Paulsen,Calatafimi - Pietratagliata,Calatafimi - Chinnici,Calatafimi - Riserva Reale,Calatafimi - Paruta,Calatafimi - Scuola Feltri,Calatafimi - Caserma Scianna,Calatafimi - Ospedale Ingrassia,Calatafimi - Rocca",
+        "orario_esercizio": "Dalle 05:40 alle 21:50",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"21",
+        "bus": "309",
+        "direzione": "VERSO PARCHEGGIO BASILE",
+        "linea_id_moovit":"1913050", "fermate": "Calatafimi - Rocca,Calatafimi - Rocca,Calatafimi - Ospedale Ingrassia,Calatafimi - Caserma Scianna,Calatafimi - Scuola Feltri,Calatafimi - Paruta,Calatafimi,Calatafimi - Lenin Mancuso,Calatafimi - Pietratagliata,Calatafimi - Villa Delle Rose,Calatafimi - De Filippo,Calatafimi - Drago,Calatafimi - Ospedale Militare,Calatafimi - Marinuzzi,Calatafimi - Zancla,Calatafimi - Ragusa Moleti,Calatafimi - Pindemonte,Calatafimi - Caserma Tukory,Calatafimi - Albergo Delle Povere,Calatafimi - Indipendenza,Indipendenza - Pisani,Re Ruggero,Brasa,Basile - Universita' Segreterie,Basile - Facolta' Di Ingegneria,Basile - Facolta' Di Economia E Commercio,Basile - Facolta' Di Lettere,Basile - Artale,Parcheggio Basile",
+        "orario_esercizio": "Solo alle 05:50",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"22",
+        "bus": "327",
+        "direzione": "VERSO INDIPENDENZA",
+        "linea_id_moovit":"1913051", "fermate": "Pitre' - Piazza Micca,Pitre' - Aeroclub,Pitre' - Villa Griffotta,Pitre' 2,Pitre' 3,Pitre' - Madonna Del Soccorso,Pitre' - Scuola Bonanno,Tascalanza - Pitre',Regione Siciliana - Pollaci,Pollaci,Regione Siciliana - La Loggia,Regione Siciliana - Pitre',Pitre' - Palchetto,Pitre' - Generale Salemi,Pitre' - Camarda,Pitre' - Pindemonte,Cappuccini - Quarto Dei Mille,Cappuccini,Indipendenza - Pisani,Indipendenza - Palazzo Reale",
+        "orario_esercizio": "Dalle 05:55 alle 21:40",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"23",
+        "bus": "327",
+        "direzione": "VERSO BOCCADIFALCO",
+        "linea_id_moovit":"1913052", "fermate": "Indipendenza - Palazzo Reale,Indipendenza,Cappuccini,Cappuccini - Quarto Dei Mille,Pitre' - Pindemonte,Pitre' - Altarello,Pitre' - Camarda,Pitre' - Palchetto,Pitre' - Scuola Bonanno,Pitre' - Madonna Del Soccorso,Pitre' 5,Pitre' 6,Pitre' - Villa Griffotta,Pitre' - Aeroclub,Piazza Micca,Pitre' - Piazza Micca",
+        "orario_esercizio": "Dalle 05:55 alle 21:40",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"24",
+        "bus": "422",
+        "direzione": "VERSO PARCHEGGIO EMIRI",
+        "linea_id_moovit":"1913059", "fermate": "Tindari - Cefalu',Acireale - Piazza S.Cristina,Centuripe - Acireale,Centuripe - Mozia,Centuripe - Alia,Centuripe - Augusta,Augusta - Centuripe,Augusta - Piazza S. Paolo,Pantalica - Tindari,Pantalica - Zancle,Castellana - Bronte,Castellana - Montevago,Castellana - Bronte,Castellana - S. Isidoro,Castellana - Cartagine,Castellana - Tembien,Castellana - Roccazzo,Di Blasi - Passo Di Rigano,Di Blasi - Savonarola,Di Blasi - Corradini,Di Blasi - Regione Siciliana,Regione Siciliana - Mazzarello,Regione Siciliana - Perpignano,Regione Siciliana - Pergusa,Tascalanza - Balestrate,Regione Siciliana - La Loggia,Regione Siciliana - Pitre',Regione Siciliana - Portello,Emiri - Nina Siciliana",
+        "orario_esercizio": "Dalle 05:50 alle 21:15",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"25",
+        "bus": "422",
+        "direzione": "VERSO BORGO NUOVO",
+        "linea_id_moovit":"1913060", "fermate": "Emiri - Nina Siciliana,Nina Siciliana - Perpignano,Regione Siciliana - La Manna,Regione Siciliana - Di Blasi,Regione Siciliana - De Sanctis,Regione Siciliana - Nazario Sauro,Regione Siciliana - Piazza Einstein,Regione Siciliana - Piazza Einstein,Regione Siciliana - Di Giorgi,Regione Siciliana - Di Blasi,Di Blasi - Telesino,Di Blasi - Scuola Corradini,Di Blasi - Rindone,Di Blasi - Savonarola,Di Blasi - Passo Di Rigano,Roccazzo - Dogali,Roccazzo - Massaua,Roccazzo - Amat,Roccazzo - Casa Del Sole,Sarullo - Casa Del Sole,Sarullo - Papaleo,Castellana - Lercara,Castellana - Modica,Castellana - Villa Delle Ginestre,Castellana - Pantalica,Pantalica - Zancle,Tindari - Cefalu'",
+        "orario_esercizio": "Solo 05:30, 06:05, 06:25, 14:10",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"26",
+        "bus": "603",
+        "direzione": "VERSO MONDELLO",
+        "linea_id_moovit":"1913073", "fermate": "Stadio - Fante,Resuttana,Croce Rossa - De Gasperi,Croce Rossa - Valdemone,Croce Rossa - Emilia,Croce Rossa - Statua,Artigliere,Leoni - Favorita,Imperatore Federico - Metro',Imperatore Federico - Minzoni,Imperatore Federico,Imperatore Federico - Fiera,Sadat - Fiera,Sadat - Autonomia Siciliana,Ammiraglio Rizzo - Generale Cascino,Ammiraglio Rizzo - Don Orione,Ammiraglio Rizzo - Jung,Ammiraglio Rizzo - Calcedonio,Ammiraglio Rizzo - Piazza Acquasanta,Papa Sergio - Villa Igiea,Papa Sergio - Ospedale Albanese,Papa Sergio - Bosco,Papa Sergio - Di Leo,Papa Sergio - Tonnara,Papa Sergio - Lavitrano,Papa Sergio - Chimica Arenella,Rotoli 1,Rotoli 2,Rotoli 3,Piazza Bordonaro,Cristoforo Colombo - Vergine Maria,Cristoforo Colombo - Belvedere,Cristoforo Colombo 5,Cristoforo Colombo 4,Cristoforo Colombo 3,Cristoforo Colombo 2,Cristoforo Colombo - Marcantonio Colonna,Cristoforo Colombo 1,Cristoforo Colombo - De Vega,Cristoforo Colombo - Magellano,Cristoforo Colombo - Abate Palmerio,Cristoforo Colombo - Lorenzo Marques,Cristoforo Colombo - Pietro De Guevara,Cristoforo Colombo - Roosevelt,Cristoforo Colombo - Caronia Roberti,Cristoforo Colombo - Pietro Rombulo,Delle Palme - Principessa Giovanna,Delle Palme - Principessa Iolanda,Regina Elena - Valdesi,Regina Elena - Commissariato P.S.,Regina Elena - Iris,Regina Elena - Delle Rose,Regina Elena - Stabilimento,Regina Elena - Circe,Regina Elena - Teti,Teti",
+        "orario_esercizio": "Dalle 06:00 alle 21:20",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"27",
+        "bus": "603",
+        "direzione": "VERSO STADIO",
+        "linea_id_moovit":"1913074", "fermate": "Teti,Principe Di Scalea - Mondello,Principe Di Scalea - Galatea,Principe Di Scalea - Amap,Principe Di Scalea - Oleandri,Principe Di Scalea - Valdesi,Delle Palme - Principessa Iolanda,Delle Palme - Principessa Maria,Cristoforo Colombo - Pietro Rombulo,Cristoforo Colombo - Caronia Roberti,Cristoforo Colombo - Roosevelt,Cristoforo Colombo - Pietro De Guevara,Cristoforo Colombo - Lorenzo Marques,Cristoforo Colombo - Abate Palmerio,Cristoforo Colombo - Magellano,Cristoforo Colombo - De Vega,Cristoforo Colombo 1,Cristoforo Colombo - Marcantonio Colonna,Cristoforo Colombo 2,Cristoforo Colombo 3,Cristoforo Colombo 4,Cristoforo Colombo 5,Cristoforo Colombo - Belvedere,Cristoforo Colombo - Vergine Maria,Piazza Bordonaro,Vergine Maria,Rotoli 3,Rotoli 2,Rotoli 1,Papa Sergio - Chimica Arenella,Papa Sergio - Lavitrano,Papa Sergio - Tonnara,Papa Sergio - Di Leo,Papa Sergio - Bosco,Papa Sergio - Ospedale Albanese,Ammiraglio Rizzo - Piazza Acquasanta,Ammiraglio Rizzo - Calcedonio,Ammiraglio Rizzo - Jung,Ammiraglio Rizzo - Don Orione,Ammiraglio Rizzo - Generale Cascino,Rabin - Ammiraglio Rizzo,Rabin - Scala Vecchia,King - Scala Vecchia,Imperatore Federico - Fiera,Imperatore Federico,Imperatore Federico - Metro',Leoni - Favorita,Fante - Piscina Comunale,Fante - Inail,Stadio - Fante",
+        "orario_esercizio": "Dalle 06:00 alle 21:20",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"28",
+        "bus": "619",
+        "direzione": "VERSO SAN FILIPPO NERI",
+        "linea_id_moovit":"1913082", "fermate": "Del Fante - Stadio Delle Palme,Resuttana,Resuttana - Sacra Famiglia,Resuttana - Briuccia,Resuttana - Villa Sofia,Resuttana - Bartolino,S. Lorenzo - Corsica,S. Lorenzo - Ingegneros,S. Lorenzo - Serretta,S. Lorenzo - Largo S. Lorenzo,Piazza S. Lorenzo,S. Lorenzo - Astorino,S. Lorenzo - Marinai D'Italia,S. Lorenzo - Villa Adriana,S. Lorenzo - Stazione FS,Lanza Di Scalea - Savagnone,Lanza Di Scalea 1,Lanza Di Scalea - Velodromo,Mormino,Lanza Di Scalea - M.C.T.C.,Zappa",
+        "orario_esercizio": "Dalle 05:20 alle 21:35",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"29",
+        "bus": "619",
+        "direzione": "VERSO STADIO",
+        "linea_id_moovit":"1913083", "fermate": "Zappa,S. Nicola - Zappa,Senocrate Di Agrigento,Castellotti - Agesia Di Siracusa,Castellotti - Marciano,Marciano,Carnera - Marciano,Carnera - Agesia Di Siracusa,Coppi,Guerra,Marchese Pensabene,Ascari,Coppi - S. Nicola,Patti - Einaudi,Capparozzo - S. Nicola,Bianchini - D'Alvise,Bianchini,Lanza Di Scalea - Besta,Lanza Di Scalea - Velodromo,Lanza Di Scalea 1,Lanza Di Scalea - Savagnone,S. Lorenzo - Commissariato P.S.,Villa Adriana,Strasburgo - Maltese,Maltese,S. Lorenzo - Dei Quartieri,S. Lorenzo - Largo S. Lorenzo,S. Lorenzo - Ingegneros,S. Lorenzo - Corsica,Resuttana - Aldisio,Resuttana - Bartolino,Resuttana - Villa Sofia,Resuttana - Sacra Famiglia,Trinacria,Piazza Papa Giovanni Paolo II,Villa Sofia - Croce Rossa,Del Fante - Stadio Delle Palme",
+        "orario_esercizio": "Dalle 05:20 alle 21:35",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"30",
+        "bus": "704",
+        "direzione": "VERSO PALLAVICINO",
+        "linea_id_moovit":"1913092", "fermate": "Croci - Mordini,Croci - Mordini,Dalla Chiesa,Duca Della Verdura - Liberta',Notarbartolo - Petrarca,Notarbartolo - Sciuti,Sciuti - Notarbartolo,Sciuti - Rapisardi,Sciuti - Giusti,Sciuti - Principe Di Paterno,Sciuti - Delle Magnolie,Restivo - Lazio,Restivo - Emilia,Restivo - Sardegna,Restivo - Delle Madonie,Strasburgo - De Gasperi,Strasburgo - Briuccia,Strasburgo - Belgio,Strasburgo - Danimarca,Strasburgo - Aldisio,Francia - Nebrodi,Montecarlo,Monte San Calogero,Parcheggio Francia,Francia - Nebrodi,Strasburgo - Ingegneros,Strasburgo - Pantelleria,Strasburgo - Maltese,Strasburgo - Villa Adriana,Resurrezione - Villa Adriana,Resurrezione - De Cervantes,Resurrezione - Florio,Resurrezione - Piazza Maria Consolatrice,Resurrezione - Duca Degli Abruzzi,Duca Degli Abruzzi - Pallavicino,Mater Dolorosa - Petrosino,Mater Dolorosa - Barbadoro,Camarina",
+        "orario_esercizio": "Dalle 05:10 alle 21:35",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"31",
+        "bus": "704",
+        "direzione": "VERSO CROCI",
+        "linea_id_moovit":"1913093", "fermate": "Camarina,Mater Dolorosa - Barbadoro,Mater Dolorosa - Mercadante,Duca Degli Abruzzi - Pallavicino,Resurrezione - Duca Degli Abruzzi,Resurrezione - Piazza Maria Consolatrice,Resurrezione - Florio,Resurrezione - De Cervantes,Resurrezione - Villa Adriana,Villa Adriana,Strasburgo - Maltese,Strasburgo - Nuova,Strasburgo - Pantelleria,Strasburgo - Ingegneros,Bonifato,Nebrodi,Strasburgo - Svizzera,Strasburgo - Aldisio,Strasburgo - Danimarca,Strasburgo - Belgio,Strasburgo - Briuccia,Strasburgo - De Gasperi,Restivo - Delle Madonie,Restivo - Sardegna,Restivo - Emilia,Restivo - Umbria,Sciuti - Lazio,Sciuti - Delle Magnolie,Sciuti - Principe Di Paterno',Sciuti - Giusti,Sciuti - Rapisardi,Sciuti - Notarbartolo,Notarbartolo - Morello,Notarbartolo - Petrarca,Liberta' - Notarbartolo,Croci - Mordini",
+        "orario_esercizio": "Solo alle 05:35, 05:55, 06:10, 06:30, 06:50, 07:10, 07:30",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"32",
+        "bus": "731",
+        "direzione": "VERSO CROCI",
+        "linea_id_moovit":"1913096", "fermate": "Piazza Bordonaro,Vergine Maria,Rotoli 3,Rotoli 2,Rotoli 1,Papa Sergio - Chimica Arenella,Papa Sergio - Lavitrano,Papa Sergio - Tonnara,Papa Sergio - Di Leo,Papa Sergio - Bosco,Papa Sergio - Ospedale Albanese,Piazza Acquasanta Monte,Simone Guli' - Calcedonio,Simone Guli' - Cantiere Navale,Cantieri - Ortolani,Cantieri - Juvara,Cantieri - Marvuglia,Cantieri - Giachery,Giachery,Duca Della Verdura - Toselli,Duca Della Verdura - Liberta',Liberta' - Notarbartolo,Croci - Mordini",
+        "orario_esercizio": "Dalle 05:45 alle 21:15",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"33",
+        "bus": "731",
+        "direzione": "VERSO VERGINE MARIA",
+        "linea_id_moovit":"1913097", "fermate": "Croci - Mordini,Dalla Chiesa,Duca Della Verdura - Toselli,Duca Della Verdura - Giachery,Cantieri - Giachery,Cantieri - Marvuglia,Cantieri - Barca,Cantieri - Ortolani,Simone Guli',Simone Guli' - Calcedonio,Piazza Acquasanta Valle,Papa Sergio - Villa Igiea,Papa Sergio - Ospedale Albanese,Papa Sergio - Bosco,Papa Sergio - Di Leo,Papa Sergio - Tonnara,Papa Sergio - Lavitrano,Papa Sergio - Chimica Arenella,Rotoli 1,Rotoli 2,Rotoli 3,Piazza Bordonaro,Cristoforo Colombo - Vergine Maria,Cristoforo Colombo - Belvedere,Cristoforo Colombo - Belvedere Mare,Cristoforo Colombo - Belvedere,Cristoforo Colombo - Vergine Maria,Piazza Bordonaro",
+        "orario_esercizio": "Solo alle 05:35, 05:55, 06:15, 06:35",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"34",
+        "bus": "100",
+        "direzione": "VERSO TOMMASO NATALE",
+        "linea_id_moovit":"1912995", "fermate": "Regione Siciliana - Paratore,Regione Siciliana - S. M. Di Gesu',Regione Siciliana - Chiavelli,Regione Siciliana - Levriere 1,Regione Siciliana - Levriere 2,Regione Siciliana - S. Filippo,Regione Siciliana - Troina,Regione Siciliana - Cingallegra,Regione Siciliana - Del Cigno,Regione Siciliana - Aloi,Regione Siciliana - Villagrazia,Regione Siciliana - Ponte Corleone,Regione Siciliana - Altofonte,Regione Siciliana - D'Anna,Regione Siciliana - Platania,Regione Siciliana - Ss. Mediatrice,Regione Siciliana - Calatafimi,Regione Siciliana - La Loggia,Regione Siciliana - Pitre',Regione Siciliana - Portello,Regione Siciliana - Parcheggio \"Degli Emiri\",Regione Siciliana - Perpignano,Regione Siciliana - La Manna,Regione Siciliana - Di Blasi,Regione Siciliana - Nazario Sauro,Regione Siciliana - De Saliba,Regione Siciliana - Principe Di Paterno',Regione Siciliana - Sardegna,Regione Siciliana - Delle Madonie,Nenni - Acc. A29 Valle,Nenni - Croce Rossa Italiana,La Malfa - Nuova,La Malfa - Ast,La Malfa,La Malfa - Tranchina,La Malfa - Figc,La Malfa - Cnr,La Malfa - Acc. A29 Valle,Acc. A29 Valle - Poste,Acc. A29 Valle 1,Acc. A29 Valle - Costantino,Acc. A29 Valle 2,Acc. A29 Valle 3,Acc. A29 Valle 4,Tommaso Natale - Socrate,Piazza Tommaso Natale - Piazza Mandorle,Piazza Tommaso Natale - Stazione FS,Piazza Tommaso Natale - Stazione FS",
+        "orario_esercizio": "Dalle 06:00 alle 21:15",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    },
+    {
+        "id":"35",
+        "bus": "100",
+        "direzione": "VERSO VIA ORETO",
+        "linea_id_moovit":"1912996", "fermate": "Piazza Tommaso Natale - Stazione FS,Piazza Tommaso Natale - Piazza Mandorle,Regione Siciliana N.O.Monte - Socrate,Acc. A29 Monte 1,Acc. A29 Monte - Wells,Acc. A29 Monte 3,Acc. A29 Monte - Costantino,Acc. A29 Monte - Schelley,Acc. A29 Monte - Monte Rosa,Acc. A29 Monte - R.L 23,Acc. A29 Monte 4,Zona Industriale - Citta' Giardino,La Malfa - Acc. A29 Valle,La Malfa - Cnr,La Malfa - Figc,La Malfa - Tranchina,La Malfa - Ast,La Malfa - Ripartizione Annona,Nenni - Croce Rossa Italiana,Zona Industriale - Nenni,Regione Siciliana - Trabucco 3,Regione Siciliana,Regione Siciliana - Belgio,Regione Siciliana - Atenasio,Regione Siciliana - Mandala',Regione Siciliana - Mineo,Regione Siciliana - Bernini,Regione Siciliana - Piazza Einstein,Regione Siciliana - Di Giorgi,Regione Siciliana - Di Blasi,Regione Siciliana - Mazzarello,Regione Siciliana - Perpignano,Regione Siciliana - Pergusa,Tascalanza - Balestrate,Tascalanza - Portello,Tascalanza - Amap,Tascalanza - Pitre',Regione Siciliana - Pollaci,Pollaci,Regione Siciliana - Dei Fiori,Regione Siciliana - Villa Tasca,Regione Siciliana - Palmerino,Regione Siciliana - Altofonte,Regione Siciliana - Brasa,Regione Siciliana - Ponte Corleone,Regione Siciliana - Aloi,Moneta - Ermellino,Ermellino - Camoscio,Ermellino - Lontra,Ermellino - Troina,Ermellino - Papa Giovanni XXIII,Ermellino - Levriere,Orsa Minore - Albiri,Orsa Minore - Orsa Maggiore,Orsa Minore,Orsa Minore - Chiavelli,Orsa Minore - S. M. Di Gesu',Orsa Minore - Oreto,Oreto - Orsa Minore,Oreto - Lo Bianco,Oreto - Orsi,Oreto - Regione Siciliana,Regione Siciliana - Paratore",
+        "orario_esercizio": "Dalle 06:00 alle 21:15",
+        "link_info":"http://amat.pa.it/percorsi-e-orari/"
+    }
+]
